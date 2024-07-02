@@ -1,6 +1,6 @@
 ## dsAMP and dsAMPGAN-- AMP  predictor and AMP generator
 ![image](https://github.com/zm1999323/dsAMP/blob/master/figure1.png)
-  The overall architecture of dsAMP and dsAMPGAN
+The overall architecture of dsAMP and dsAMPGAN
 
 ## What about dsAMP and dsAMPGAN？
 
